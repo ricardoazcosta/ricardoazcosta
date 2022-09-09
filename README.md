@@ -2,7 +2,7 @@
 
 
 - 🖥️ Atualmente estou trabalhando com Front-End
-- 💻 📖 Sempre estudando JavaScript, TypeScript, React, C#
+- 💻 📖 Sempre estudando JavaScript, TypeScript, React, Java
 - 👨‍👩‍👧‍👦 Amo estar com a Familia
 - ⚽ Jogar Futebol
 - 📚 Gosto de Ler
