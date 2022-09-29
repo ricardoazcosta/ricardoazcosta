@@ -1,8 +1,8 @@
 ### Olá! Eu sou Ricardo Alexandre Costa 👋
 
 
-- 🖥️ Atualmente estou trabalhando com Front-End
-- 💻 📖 Sempre estudando JavaScript, TypeScript, React, Java
+- 🖥️ Atualmente estou estudando/trabalhando com Front-End
+- 📖 Sempre estudando JavaScript, TypeScript, React, C#
 - 👨‍👩‍👧‍👦 Amo estar com a Familia
 - ⚽ Jogar Futebol
 - 📚 Gosto de Ler
