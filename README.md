@@ -2,7 +2,7 @@
 
 
 - 🖥️ Atualmente estou estudando/trabalhando com Front-End
-- 📖 Sempre estudando JavaScript, TypeScript, React, C#
+- 📖 Sempre estudando JavaScript, TypeScript, React, C#, Java...Adiquirir e Praticar novos Conceitos sempre!!
 - 👨‍👩‍👧‍👦 Amo estar com a Familia
 - ⚽ Jogar Futebol
 - 📚 Gosto de Ler
